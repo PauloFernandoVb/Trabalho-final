@@ -1,0 +1,26 @@
+{
+  "name": "trabalho-final",
+  "version": "1.0.0",
+  "description": "cadastro do volei",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PauloFernandoVb/Trabalho-final.git"
+  },
+  "author": "paulo fernando",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PauloFernandoVb/Trabalho-final/issues"
+  },
+  "homepage": "https://github.com/PauloFernandoVb/Trabalho-final#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express": "^5.1.0",
+    "express-session": "^1.18.1"
+  }
+}
